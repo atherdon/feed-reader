@@ -9,3 +9,27 @@ https://elements.envato.com/corporate-b2b-newsletter-template-RP2NU4 - interesti
 https://elements.envato.com/cromo-corporate-email-newsletter-template-KBHU5XA
 
 
+
+
+-------------
+
+
+https://www.npmjs.com/package/rss-parser
+
+https://www.npmjs.com/package/feedparser
+
+
+---
+
+
+Cron job that runs one time per day or can be called manually.
+Cover a case, when this feed doesn't have any new items.
+
+grab some fields, like:
+
+
+for later cases, we may change number of fields that we wanna to parse, so we can easily change it.
+maybe even have json file where we can specify names pretty easily as config shit.
+
+
+
