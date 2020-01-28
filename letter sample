@@ -32,4 +32,39 @@ for later cases, we may change number of fields that we wanna to parse, so we ca
 maybe even have json file where we can specify names pretty easily as config shit.
 
 
+https://github.com/fent/node-feedsub
 
+
+https://github.com/danmactough/node-feedparser
+
+https://github.com/scripting/feedRead
+
+settings page?
+
+aka we want to get an archive of items from this feed at [days]
+
+and 
+
+
+
+https://stackoverflow.com/questions/5722638/node-js-rss-module
+
+
+https://tj.ie/diy-rss-feed-reader/
+
+https://libraries.io/search?keywords=rss&platforms=NPM
+
+------------
+
+https://github.com/relekang/micro-rss-parser
+
+https://github.com/adieuadieu/graphql-web-feeds
+
+
+https://libraries.io/npm/feed
+
+
+https://libraries.io/npm/node-red-node-feedparser
+
+https://geekuillaume.github.io/Freader/
+https://github.com/geekuillaume/Freader
